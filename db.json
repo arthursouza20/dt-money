@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Salário",
+      "type": "income",
+      "price": 100000,
+      "category": "Salário",
+      "createdAt": "2025-04-07 08:00:00"
+    },
+    {
+      "description": "Desenvolvimento de Aplicativo",
+      "price": 15000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-04-08T12:58:18.778Z",
+      "id": 2
+    },
+    {
+      "description": "Desenvolvimento de Website",
+      "price": 3000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-04-08T13:04:35.490Z",
+      "id": 3
+    },
+    {
+      "description": "Macbook M4",
+      "price": 12000,
+      "category": "Periférico",
+      "type": "outcome",
+      "createdAt": "2025-04-08T13:44:14.420Z",
+      "id": 4
+    }
+  ]
+}
